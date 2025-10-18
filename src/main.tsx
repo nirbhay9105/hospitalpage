@@ -18,7 +18,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: '/Hospital-Website', // ✅ Add this line
+    basename: '/', // ✅ Add this line
   }
 );
 
