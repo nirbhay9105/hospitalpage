@@ -20,7 +20,7 @@ import user1 from '@/assets/Images/Users/user1.jpg';
 import user2 from '@/assets/Images/Users/user2.jpg';
 import user3 from '@/assets/Images/Users/user3.jpg';
 
-import logo from '@/assets/Images/logo.png';
+import logo from '@/assets/Images/Logo.png';
 
 export const links = ['Home', 'Doctors', 'Services', 'Reviews'];
 
