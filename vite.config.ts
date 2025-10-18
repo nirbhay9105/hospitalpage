@@ -13,7 +13,7 @@ export default defineConfig({
       },
     ],
   },
-  base: '/Hospital-Website',
+  base: '/',
 });
 
 
