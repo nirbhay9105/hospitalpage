@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "composite": true,
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "allowSyntheticDefaultImports": true,
+    "types": ["node"] // ✅ This fixes the 'Cannot find type definition file for node' error
+  },
+  "include": ["vite.config.ts", "scripts", "node"] // or any files that use Node.js APIs
+}
